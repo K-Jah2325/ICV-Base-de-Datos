@@ -1,1 +1,0 @@
-$ mysql -u usuario_mysql -p base_de_datos < archivo.sql
